@@ -1,0 +1,20 @@
+#controls{
+    width: 70%;
+}
+
+.ranges{
+    width: 60px;
+}
+#NumBut{
+    background-color: black;
+    color: white;
+}
+#RandomBut{
+    background-color:pink;
+    color:deeppink;
+}
+#AddBut{
+    background-color: gray;
+    color: white;
+}
+
